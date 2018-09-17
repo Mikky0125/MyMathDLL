@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyMathDLL</name>
+    </assembly>
+    <members>
+        <member name="M:MyMathDLL.MyMath.Add(System.Int32,System.Int32)">
+            <summary>
+            Int a + b
+            </summary>
+        </member>
+        <member name="M:MyMathDLL.MyMath.Multiple(System.Int32,System.Int32)">
+            <summary>
+            Mulitple A and B
+            </summary>
+        </member>
+        <member name="M:MyMathDLL.MyMath.Substract(System.Int32,System.Int32)">
+            <summary>
+            /Substract a and B
+            </summary>
+        </member>
+        <member name="M:MyMathDLL.MyMath.Divide(System.Int32,System.Int32)">
+            <summary>
+            Divide bro
+            </summary>
+        </member>
+    </members>
+</doc>
