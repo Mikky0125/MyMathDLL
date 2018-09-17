@@ -1,0 +1,6 @@
+C:\Users\mik\source\repos\MyMathDLL\MyMathDLL\bin\Debug\MyMathDLL.dll
+C:\Users\mik\source\repos\MyMathDLL\MyMathDLL\bin\Debug\MyMathDLL.pdb
+C:\Users\mik\source\repos\MyMathDLL\MyMathDLL\obj\Debug\MyMathDLL.csprojAssemblyReference.cache
+C:\Users\mik\source\repos\MyMathDLL\MyMathDLL\obj\Debug\MyMathDLL.csproj.CoreCompileInputs.cache
+C:\Users\mik\source\repos\MyMathDLL\MyMathDLL\obj\Debug\MyMathDLL.dll
+C:\Users\mik\source\repos\MyMathDLL\MyMathDLL\obj\Debug\MyMathDLL.pdb
